@@ -1,0 +1,26 @@
+.nav ul {
+  list-style: none;
+}
+.nav ul li {
+  display: inline;
+  margin: 0 20px;
+  color: white;
+  font-size: 15px;
+}
+.nav ul li img {
+  width: 80px;
+  background-color: white;
+  color: red;
+  margin: 0 10px;
+}
+.nav ul li input {
+  width: 200px;
+  padding: 5px;
+
+  margin: 0 25px;
+}
+.nav ul li button {
+  padding: 4px 10px;
+  background-color: rgb(243, 179, 17);
+  border: none;
+}

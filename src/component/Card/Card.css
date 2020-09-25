@@ -1,0 +1,44 @@
+.common:hover {
+  transform: scale(1.1);
+  border: 2px solid orange;
+  content: Cox s bazar;
+}
+.right-side {
+  display: flex;
+}
+.left-side {
+  color: white;
+}
+.main-div {
+  margin: 0 20px;
+}
+.left-side button {
+  background-color: rgb(243, 179, 18);
+  padding: 4px 10px;
+}
+
+.image1 {
+  background-image: url(../../images/Image/Rectangle\ 1.png);
+}
+.image2 {
+  background-image: url(../../images/Image/Sreemongol.png);
+}
+.image3 {
+  background-image: url(../../images/Image/sundorbon.png);
+}
+.common {
+  border-radius: 10px;
+  background-position: center center;
+  background-size: cover;
+  width: 180px;
+  height: 300px;
+  margin: 0 10px;
+
+  transition: 1s;
+}
+.common h3 {
+  padding-top: 240px;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
